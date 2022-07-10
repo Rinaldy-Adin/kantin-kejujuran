@@ -12,4 +12,4 @@ Task 2 of COMPFEST SEA selection tasks. Features include:
 
 -   React
 -   Tailwind
--   Firebase
+-   Firebase (Hosted on https://kantin-kejujuran-cc7a9.firebaseapp.com/)
