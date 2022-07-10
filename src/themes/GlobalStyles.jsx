@@ -51,6 +51,7 @@ const GlobalStyle = createGlobalStyle`
         box-sizing: border-box;
         background-color: #fcfcfc;
         scroll-behavior: smooth;
+        overflow-x: hidden;
     }
 
     body {

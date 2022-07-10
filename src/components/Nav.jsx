@@ -15,7 +15,7 @@ const Nav = () => {
     }, [location]);
 
     return (
-        <div className='w-screen flex flex-col gap-2 bg-inherit shadow-md items-center'>
+        <div className='w-full flex flex-col gap-2 bg-inherit shadow-md items-center'>
             <div className='w-full h-20 flex items-center justify-between px-[80px] bg-inherit '>
                 <Logo />
                 <button

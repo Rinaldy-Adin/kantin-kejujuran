@@ -64,7 +64,7 @@ const Kantin = () => {
                         onClick={openNewItemModal}
                     ></TambahItemButton>
                 </div>
-                <div className='w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-x-[35px] gap-y-6 mt-6'>
+                <div className='w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-x-[35px] gap-y-6 mt-6 mb-6'>
                     {items.map((item) => (
                         <ItemCard
                             name={item.name}
